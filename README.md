@@ -17,7 +17,7 @@ I’m passionate about building **hands-on IT and networking labs** to sharpen m
 
 ## 📂 Featured Projects
 - [🖧 Basic LAN Lab (Packet Tracer)](https://github.com/DFloTech/basic-lan-lab)
-- 
+  
 ---
 
 ## 📬 Connect with Me
