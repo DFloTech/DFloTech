@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm David A. Flores  
 
-<!--
-**DFloTech/DFloTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **IT Systems Technician  
+📍 Based in Ontario, CA  
 
-Here are some ideas to get you started:
+I’m passionate about building **hands-on IT and networking labs** to sharpen my troubleshooting, system administration, and help desk skills. I’m currently preparing for the **Cisco CCNA** and documenting projects to showcase my journey.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+- Networking: Cisco Packet Tracer, Subnetting, Routing & Switching  
+- Systems: Windows Server, Active Directory, O365 Admin  
+- IT Support: Hardware/Software Troubleshooting, Ticketing Systems  
+- Security: CompTIA Security+ Certified  
+
+---
+
+## 📂 Featured Projects
+- [🖧 Basic LAN Lab (Packet Tracer)](https://github.com/DFloTech/basic-lan-lab)
+- 
+---
+
+## 📬 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/da-flores)  
+- 📧 Email: daflores019@gmail.com  
