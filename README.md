@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David A. Flores  
 
-💻 **IT Systems Technician  
+💻 IT Systems Technician  
 📍 Based in Ontario, CA  
 
 I’m passionate about building **hands-on IT and networking labs** to sharpen my troubleshooting, system administration, and help desk skills. I’m currently preparing for the **Cisco CCNA** and documenting projects to showcase my journey.  
